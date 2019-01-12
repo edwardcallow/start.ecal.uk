@@ -1,4 +1,12 @@
 :root {
+	/* Colour guide (values taken from Apple macOS VD-HIGs
+		Accent normal light:	Aqua
+		Accent hover light:		Aqua with brightness(-30%)
+		Accent normal dark:		Dark
+		Accent hover dark:		Dark with hue(+1), saturation(-21)
+	*/
+
+
 	/* Background colours */
 	--background-light: #f5f5f5;
 	--background-dark: #212121;
